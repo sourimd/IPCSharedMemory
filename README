@@ -1,0 +1,4 @@
+Program stub for Inter-Process Communication through Shared Memory.
+The idea is to create a shared memory space wherein both the parent 
+and child will write messages. Later whatever contents is there in the
+memory space will be spitted out to the stdout.
